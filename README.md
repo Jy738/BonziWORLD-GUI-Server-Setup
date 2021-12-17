@@ -1,2 +1,2 @@
-# BonziWORLD-Server-kit
-An automatic BonziWORLD maker. Just run the program.
+# BonziWORLD.ga
+why are you here
